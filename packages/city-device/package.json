@@ -1,13 +1,13 @@
 {
   "name": "@sensoro/city-device",
-  "version": "0.0.4-nightly.0",
+  "version": "0.0.4",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Nathan <308719298@qq.com>",
   "license": "MIT",
   "main": "lib/city-device.js",
   "dependencies": {
-    "@sensoro/city-i18n": "^0.0.4-nightly.0",
+    "@sensoro/city-i18n": "^0.0.4",
     "lodash": "^4.17.11"
   },
   "directories": {
