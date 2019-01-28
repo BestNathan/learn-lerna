@@ -6,6 +6,7 @@ module.exports = cityDevice;
 
 function cityDevice() {
     console.log(_.capitalize(__()));
+    console.log('changed')
 }
 
 cityDevice()
