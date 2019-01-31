@@ -1,2 +1,3 @@
 lerna-debug.log
 packages/*/node_modules
+node_modules
