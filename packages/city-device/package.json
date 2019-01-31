@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "lib/city-device.js",
   "dependencies": {
-    "city-i18n": "^0.0.10-alpha.0",
+    "city-i18n": "0.0.10-alpha.0",
     "lodash": "^4.17.11"
   },
   "directories": {
