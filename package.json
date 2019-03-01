@@ -12,5 +12,6 @@
   },
   "changelog": {
     "repo": "git@github.com:BestNathan/learn-lerna.git"
-  }
+  },
+  "version": null
 }
